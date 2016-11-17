@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_41810_discounts_discounts">x_41810_discounts_discounts</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1</number>
+        <prefix>DIS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-11-17 08:07:15</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>26ec9a87dbc722004a0ed170cf961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DIS</sys_name>
+        <sys_package display_value="Discounts" source="x_41810_discounts">bb3a9ec7dbc722004a0ed170cf961991</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Discounts">bb3a9ec7dbc722004a0ed170cf961991</sys_scope>
+        <sys_update_name>sys_number_26ec9a87dbc722004a0ed170cf961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-11-17 08:07:15</sys_updated_on>
+    </sys_number>
+</record_update>
